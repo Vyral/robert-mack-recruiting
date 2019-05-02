@@ -41,7 +41,7 @@ sidebar_CTA:
 #     CTA_url2: /
 
 lender:
-  show_section: false
+  show_section: falseo
   header_text: Preferred Lender
   headshot_path: http://fillmurray.com/200/200
   logo_path: /img/logo.png
