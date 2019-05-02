@@ -5,8 +5,6 @@ show_custom_links: true
 custom_links:
   - title: Join Our Team
     url: /join-our-team/
-  - title: 
-    url: 
   - title: Free Strategy Call
     url: /contact/
 client:
