@@ -33,8 +33,8 @@ The first is your **database**. I wish someone would’ve told me when I first g
 
 The second lead source is **open houses**. As a Realtor, it’s very rare to get walk-in traffic to your office. What’s the best way to get in front of buyers and sellers, then? The open house. It doesn’t have to be your listing. If it is, that’s great, but it can be your team leader’s or any other team member’s listing. If you’re not on a team, you can ask your broker what listings you hold open houses in.&nbsp;
 
-At the end of the day, just make sure you get into these open houses and make sure people come who you can talk to. It’s the best way to get in front of people who don’t have an agent. You can then build a rapport with them and collect their information so that one day, once their ready to buy, you’ll be able to help them.&nbsp;
+At the end of the day, just make sure you get into these open houses and make sure people come who you can talk to. It’s the best way to get in front of people who don’t have an agent. You can then build a rapport with them and collect their information so that one day, once they're ready to buy, you’ll be able to help them.&nbsp;
 
-The last is **a farm**, or a geographic area an agent chooses to build their visibility. When I started my first farm, I would print my own half-page market updates and deliver them door to door in my neighborhood. I did that for two years, and from there I built a business by selling more homes, doing more open houses, and directing mail.&nbsp;
+The last is **a farm**, or a geographic area an agent chooses to build their visibility. When I started my first farm, I would print my own half-page market updates and deliver them door to door in my neighborhood. I did that for two years, and from there, I built a business by selling more homes, doing more open houses, and doing direct mail.&nbsp;
 
-If you have any questions about this or any other real estate topic, don’t hesitate to reach out to me. I’d love to speak with you. Until the, happy selling\!
+If you have any questions about this or any other real estate topic, don’t hesitate to reach out to me. I’d love to speak with you. Until then, happy selling\!
