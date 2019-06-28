@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Getting Off the Entrepreneurial Roller Coaster
-date: 2019-06-28 15:41:34
+date: 2019-06-28 15:41:00
 tags:
   - Lead Conversion
 excerpt: Are you sick and tired of the entrepreneurial roller coaster? Stay tuned.
