@@ -23,7 +23,7 @@ When new agents finally break into the industry, their success is determined by 
 
 In order to be a great Realtor, you have to have a lot of conversations with people about the services you offer. **If you have four or five of these conversations a day, in two or three months, those interactions will lead to clients.**
 
-The problem is that when these agents spend so much time making phone calls, sending texts, and attending networking events, once they get busy helping clients find or sell properties, what’s the first thing that they stop doing? Having these important conversations.
+The problem is that when these agents spend so much time making phone calls, sending texts, and attending networking events, they get busy helping clients find and sell properties and stop having these important conversations altogether.
 
 Your business becomes an entrepreneurial roller coaster once you’ve stopped doing what’s necessary to maintain a pipeline full of prospects. It’s at that point that your business starts to fail, causing you to panic and revert back to making phone calls and networking.
 
