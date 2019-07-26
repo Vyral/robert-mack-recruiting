@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why Follow-Up Is So Important to Your Business
-date: 2019-07-26 15:07:26
+date: 2019-07-26 15:07:00
 tags:
   - Transaction Management
 excerpt: >-
