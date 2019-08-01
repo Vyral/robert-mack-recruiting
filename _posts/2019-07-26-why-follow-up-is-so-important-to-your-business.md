@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   Good follow up techniques will take you far in the real estate business.
   Here’s why.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Robert+Mack/Recruiting+Videos/Why+Follow-Up+Is+So+Important+to+Your+Business.mp4
 pullquote: You can’t just call a lead once and expect them to buy in.
 enclosure_type: video/mp4
 enclosure_time:
