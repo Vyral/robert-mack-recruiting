@@ -20,7 +20,7 @@ youtube_code: cTEv_BoqPFg
 
 {% include youtube.html %}
 
-If you’ve been tuning into my recent videos, you know that my mission is to offer guidance, mentoring, and tips and tricks to help you and others in the community become better agents. To that end, today I’ve brought on fellow agent Ryan \_\_\_\_ to talk about his experiences since joining my team and as someone who was in hospitality for over a decade, what it’s been like to reinvent himself professionally.
+If you’ve been tuning into my recent videos, you know that my mission is to offer guidance, mentoring, and tips and tricks to help you and others in the community become better agents. To that end, today I’ve brought on fellow agent Ryan McMillian to talk about his experiences since joining my team and as someone who was in hospitality for over a decade, what it’s been like to reinvent himself professionally.
 
 **Ryan was in the restaurant and bar business for just over 11 years before deciding he wanted to break into the real estate industry.** So, he completed his classes and earned his license to practice. As a new licensee, he wasn’t sure what his next step should be, but he knew he wanted to be part of a team.
 
