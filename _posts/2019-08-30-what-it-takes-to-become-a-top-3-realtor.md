@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What It Takes to Become a Top-3% Realtor
-date: 2019-08-30 12:07:01
+date: 2019-08-30 12:07:00
 tags:
   - Transaction Management
 excerpt: Are you in the top 3% of Realtors? Keep reading to find out.
