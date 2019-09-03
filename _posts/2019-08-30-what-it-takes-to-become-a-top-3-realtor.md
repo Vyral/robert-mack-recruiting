@@ -5,7 +5,8 @@ date: 2019-08-30 12:07:00
 tags:
   - Transaction Management
 excerpt: Are you in the top 3% of Realtors? Keep reading to find out.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Robert+Mack/Recruiting+Videos/What+It+Takes+to+Become+a+Top-3%25+Realtor.mp4
 pullquote: 'We have a strong structure, systems, and great admin staff.'
 enclosure_type: video/mp4
 enclosure_time:
