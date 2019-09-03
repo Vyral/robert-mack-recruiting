@@ -11,7 +11,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/8-29---robert-mack---youtube.jpg
-youtube_code: 'https://youtu.be/mp3J2VbWrHw'
+youtube_code: GayA_ENwpJk
 ---
 
 {% include youtube.html %}
