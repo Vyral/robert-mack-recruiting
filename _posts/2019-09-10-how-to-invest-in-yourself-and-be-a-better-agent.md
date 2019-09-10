@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Invest in Yourself and Be a Better Agent
-date: 2019-09-10 17:46:25
+date: 2019-09-10 17:46:00
 tags:
   - Transaction Management
 excerpt: >-
