@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   Professional networking means having strategic referral partners you can
   connect with.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Robert+Mack/Recruiting+Videos/Build+Your+Network+With+Strategic+Referral+Partners.mp4
 pullquote: >-
   If you’re not seeking out strategic referral partners, you’re missing a big
   piece of the action.
