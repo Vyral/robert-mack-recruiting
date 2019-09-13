@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   My team and I are always looking for new opportunities to lead agents just
   getting their start in the business down a path to success.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Robert+Mack/Recruiting+Videos/One+Agents+Journey+That+Began+By+Learning+From+the+Ground+Up.mp4
 pullquote: >-
   As daunting as it may seem, becoming a great agent is possible and Ryan’s
   story is evidence of that.
