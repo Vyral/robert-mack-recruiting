@@ -7,13 +7,14 @@ tags:
 excerpt: >-
   If you want to invest in yourself as an agent, you need to practice. Here’s
   what I mean by that.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Robert+Mack/Recruiting+Videos/How+to+Invest+in+Yourself+and+Be+a+Better+Agent.mp4
 pullquote: 'When you meet with a client face to face, it’s game time.'
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/9-10---robert-mack---youtube.jpg
-youtube_code: 'https://youtu.be/FIyyBOqTCGA'
+youtube_code: 'https://youtu.be/JispptY9Pck'
 ---
 
 {% include youtube.html %}
