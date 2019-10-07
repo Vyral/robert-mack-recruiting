@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Are You a “Rock” for Your Clients?
-date: 2019-10-07 15:44:41
+date: 2019-10-07 15:44:00
 tags:
   - Buyer Prospects
 excerpt: >-
