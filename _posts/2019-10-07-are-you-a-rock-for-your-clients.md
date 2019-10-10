@@ -19,6 +19,8 @@ youtube_code: 'https://youtu.be/e0-K9EAWKgw'
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>As an agent, your buyers and sellers trust you to be a steady source of guidance. Let’s discuss how you can achieve this today.</em></p>
+
 The real estate process can be quite overwhelming for buyers and sellers. Emotions run high, expenses can run deep, and energy can run low after days or weeks of striving toward the closing table. This is where you come in.&nbsp;
 
 **As an agent, part of your job is to advocate for your clients.** When you work by a buyer or seller’s side, you’re not only bringing your knowledge, experience, and resources to the table, but also a neutral perspective through which they can more clearly assess the deal at hand.&nbsp;
