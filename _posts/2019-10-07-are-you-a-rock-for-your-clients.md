@@ -21,7 +21,7 @@ youtube_code: 'https://youtu.be/e0-K9EAWKgw'
 
 The real estate process can be quite overwhelming for buyers and sellers. Emotions run high, expenses can run deep, and energy can run low after days or weeks of striving toward the closing table. This is where you come in.&nbsp;
 
-**As an agent, part of your job is to advocate for your clients.** When you work by a buyer or seller’s side, you’re not only bringing your knowledge, experience, and resources to the table but also a neutral perspective through which they can more clearly assess the deal at hand.&nbsp;
+**As an agent, part of your job is to advocate for your clients.** When you work by a buyer or seller’s side, you’re not only bringing your knowledge, experience, and resources to the table, but also a neutral perspective through which they can more clearly assess the deal at hand.&nbsp;
 
 So if you inadvertently put off negative or nervous energy around your client, this can create an unfortunate domino effect. The slightest hint of unease on your end can easily snowball into an emotional meltdown for your clients, who will tend to use you as their “rock.”&nbsp;
 
