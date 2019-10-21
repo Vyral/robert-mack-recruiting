@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Value of Your Database
-date: 2019-10-21 19:41:15
+date: 2019-10-21 19:41:00
 tags:
   - Lead Generation
 excerpt: >-
