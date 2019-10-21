@@ -19,6 +19,8 @@ youtube_code: 'https://youtu.be/3skb_uYbn9U'
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>Do you really understand how important it is to stay in touch with your database? Let’s delve deeper into this topic, today.</em></p>
+
 Having a strong database is important, but building one up isn’t something every agent takes the time to do. If you’ve been following my content for a while, you probably know that it took me eight or nine years to fully grasp this, myself. Now that I have, I’d like to share what I’ve learned since then with all of you.&nbsp;
 
 One of the most crucial lessons to remember on this subject is that **it’s eight times easier to get leads from someone you already know than to get leads from a new business.** I first learned this from my friend Bill Pipes, a Tom Ferry real estate coach, and keeping this in mind has made an incredible impact on my career.
