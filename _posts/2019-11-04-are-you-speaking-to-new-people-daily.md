@@ -19,6 +19,8 @@ youtube_code: 'https://youtu.be/pPCO-CKXlcs'
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>Today I’m sharing how to grow your database and therefore expand your business.</em></p>
+
 Are you speaking to new people every day? Today I want to discuss building your database. **It’s critical to have a database** and you should make sure to call and engage with the people in your database. Most of your business should be coming from your database. Your database should make up about 50% to 70% of your business. If it’s not, you may want to review your business and see what you’re doing each day.&nbsp;
 
 How do we continue to grow our database? We’re receiving customer information from multiple different sources. You may be getting contacts from Zillow, Facebook, open house customer inquiries, and so on. You are continually being bombarded with contacts that you don’t know that might need help with real estate. What you need to be doing is take all this information and regularly add it to your database.&nbsp;
