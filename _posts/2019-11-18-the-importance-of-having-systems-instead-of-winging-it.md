@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Importance of Having Systems Instead of Winging It
-date: 2019-11-18 19:30:24
+date: 2019-11-18 19:30:00
 tags:
   - Transaction Management
 excerpt: >-
