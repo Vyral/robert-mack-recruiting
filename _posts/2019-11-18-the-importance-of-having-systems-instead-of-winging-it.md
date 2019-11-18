@@ -21,6 +21,8 @@ youtube_code: 'https://youtu.be/Fo0UnzTbuA0'
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>As an agent, you’re better off implementing systems in your business instead of just winging it. Here’s why.</em></p>
+
 Today’s message is for the agent who’s just “winging it.”
 
 To be clear, there’s nothing wrong with what you’re doing. I did the same thing for the first eight years of my career. Then I figured out that **it’s much easier to have systems in place.** You might be a great agent with a lot of experience who genuinely wants to help their clients, but if you don’t have systems in place, that will make your life harder. Predictability creates consistency, consistency is certainty, and certainty equals trust.&nbsp;
