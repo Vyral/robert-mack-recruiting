@@ -21,6 +21,8 @@ youtube_code: EG9DV86MkIU
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>Have you planned for 2020? Today I’ll shed some light on planning for the upcoming year now that we’re approaching the end of 2019.</em></p>
+
 Making a business plan doesn’t have to be that complicated. I think a lot of real estate agents, and people in general, tend to overthink things. **Today let me break it down into three parts so you can put together your business plan for 2020.**
 
 Last year, the Robert Mack Group had a team retreat; the theme was crafted around the questions “What, Why, and How?”
