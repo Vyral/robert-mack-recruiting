@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Create a Successful Business Plan for 2020
-date: 2019-12-03 22:04:56
+date: 2019-12-03 22:04:00
 tags:
   - Transaction Management
 excerpt: >-
