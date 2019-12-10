@@ -15,7 +15,7 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/robert-mack-client-appreciation-2019-event-youtube.jpg
+youtube_alternate_image: /uploads/robert-mack-have-you-planned-for-2020-youtube.jpg
 youtube_code: EG9DV86MkIU
 ---
 
