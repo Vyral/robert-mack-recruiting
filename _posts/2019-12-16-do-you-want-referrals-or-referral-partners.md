@@ -17,6 +17,8 @@ youtube_code: 'https://youtu.be/TGy4bLB6ulk'
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>Today I’m discussing why you may want a referral partner, not just referrals.</em></p>
+
 Do you want referrals or referral partners? Today **I hope to help you find ways to improve your business, make more money, and help more people.&nbsp;**
 
 Not everyone knows what the difference is between referrals and referral partners. A referral is a one-off; for example, if your neighbor refers you to their friend, it’s a one-time deal. Could you conceivably receive more referrals from that neighbor? Absolutely\! Is that going to be a constant stream of income? Probably not.&nbsp;
