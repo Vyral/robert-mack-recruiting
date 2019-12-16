@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Do You Want Referrals or Referral Partners?
-date: 2019-12-16 14:46:18
+date: 2019-12-16 14:46:00
 tags:
   - Lead Generation
 excerpt: 'Today I’m discussing why you may want a referral partner, not just referrals.'
