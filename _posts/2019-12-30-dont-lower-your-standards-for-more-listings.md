@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Don’t Lower Your Standards for More Listings
-date: 2019-12-30 15:27:48
+date: 2019-12-30 15:27:00
 tags:
   - Transaction Management
 excerpt: >-
