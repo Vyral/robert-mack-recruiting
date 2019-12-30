@@ -21,6 +21,8 @@ youtube_code: 'https://youtu.be/ABVIobaQeIg'
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>Today I’m sharing a story to help show you why you should never compromise your integrity in this business.</em></p>
+
 When I was a newer agent, I didn’t have many standards. Oftentimes, I was just so desperate to have a client that I would take anyone—and any property— I could get. I simply thought I needed more business.&nbsp;
 
 Thankfully, of course, we’ve been able to grow our team to the point that we can be selective with the people we work with. **Real estate is already challenging as an industry. Working with very challenging people just adds to the complexities and headaches.&nbsp;**
