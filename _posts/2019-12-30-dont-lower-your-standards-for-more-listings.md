@@ -27,11 +27,11 @@ When I was a newer agent, I didn’t have many standards. Oftentimes, I was just
 
 Thankfully, of course, we’ve been able to grow our team to the point that we can be selective with the people we work with. **Real estate is already challenging as an industry. Working with very challenging people just adds to the complexities and headaches.&nbsp;**
 
-We want to work with people who have a genuine need, who will trust us and value our advice.&nbsp;<br>To illustrate my point about standards, I’ll share a recent experience.&nbsp;
+We want to work with people who have a genuine need, who will trust us and value our advice. To illustrate my point about standards, I’ll share a recent experience.&nbsp;
 
 A few months ago, we worked with a homeowner on a strategy to sell her home. She needed a new carpet, new paint, and a general decluttering. Her community also had very high inventory and affordable new construction. If her home wasn’t in tip-top shape, marketed aggressively, and priced correctly, it wasn’t going to sell in that highly competitive market.&nbsp;
 
-Despite having an agreement to fix the carpets and have our designers stage the home, the homeowner suddenly had second thoughts; she said some friends had advised her that staging was necessary. As much as I wanted to help her, I knew her new strategy of leaving the home as is and just doing some minor “rearranging” wouldn’t work at all.&nbsp;
+Despite having an agreement to fix the carpets and have our designers stage the home, the homeowner suddenly had second thoughts; she said some friends had advised her that staging wasn't necessary. As much as I wanted to help her, I knew her new strategy of leaving the home as is and just doing some minor “rearranging” wouldn’t work at all.&nbsp;
 
 {% include pullquote.html %}
 
@@ -41,4 +41,4 @@ So when I ask, “What are your standards?” I really mean, “What are you wil
 
 **Don’t let your quality of life suffer unnecessarily in this business.** You should be working with people who are going to trust your advice, and who are truly motivated to reach their real estate goals. I’m not willing to compromise my listing strategy just because I want another listing.&nbsp;
 
-I hope you found value in today’s message. Next time you come across someone whose attitude and demeanor are unhelpable, think twice before you say yes to them. Feel free to reach out to me by phone or email if you have any questions or want to set up a strategy session with me.&nbsp;
+I hope you found value in today’s message. Next time you come across someone whose attitude and demeanor are unhelpable, think twice before you say yes to them. Feel free to reach out to me by phone or email if you have any questions or want to set up a strategy session.&nbsp;
