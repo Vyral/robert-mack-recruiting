@@ -19,6 +19,8 @@ youtube_code: 'https://youtu.be/bG4X8R_vrfY'
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>If you don’t have systems in your business, it’s time you implement them. Here’s why.</em></p>
+
 Today’s message is for the agent who’s winging it.&nbsp;
 
 Let me be clear: There’s nothing wrong with winging it. I winged it for eight years until I figured out it’s much easier to have systems in place than transfer everything that’s in your head and laying it out into the entire process. You might be a great agent with a lot of experience and the heart of a teacher, but if you don’t have systems, your life will be harder. We know that **predictability creates consistency, consistency equals certainty, and certainty equals trust.&nbsp;**
