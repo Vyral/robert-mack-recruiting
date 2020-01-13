@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Create Systems in Your Business
-date: 2020-01-13 14:44:32
+date: 2020-01-13 14:44:00
 tags:
   - Transaction Management
 excerpt: >-
