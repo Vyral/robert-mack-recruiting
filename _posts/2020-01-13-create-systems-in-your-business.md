@@ -35,7 +35,7 @@ For example, if you have a new listing, you know you have to do things like clea
 
 There may be 80 things on this checklist, but only 50 might apply to us. If we walk into a home that’s already staged, we don’t have to worry about cleaning the carpet, making repairs, and all that other stuff. All we have to do is focus on photos. Not everything has to be done, but having a comprehensive list of everything that could happen will make your life easier. It will make your process more predictable and more duplicatable.&nbsp;
 
-If you decide to hire an assistant or expand your team in other ways, they’ll be able to help you through the process because everything’s not just confined to your own mind anymore—it’s all on paper, so to speak.
+If you decide to hire an assistant or expand your team in other ways, they’ll be able to help you through the process because everything won't be confined to your own mind anymore—it will all be on paper, so to speak.
 
 So I encourage you to **take all the different processes that can happen, break them down into a system, and create a more predictable process.** It will make your life easier, you’ll be able to help more people, and you’ll make more money. On my team, we have all the processes outlined so that our agents don’t have to think. They can focus on what’s most important: making phone calls, going on appointments, and writing contracts.&nbsp;
 
