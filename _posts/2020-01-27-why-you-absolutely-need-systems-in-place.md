@@ -19,6 +19,8 @@ youtube_code: 'https://youtu.be/-_4A8A40Nn4'
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>Today I’m revisiting a topic I’ve already touched on to give you a clearer picture of its importance. Here’s why you need systems in place.</em></p>
+
 This topic may seem familiar, and with good reason; I recently made a video about the importance of having systems in place versus just wingin’ it, but today I’m going a little bit deeper.&nbsp;
 
 A few weeks back, I was at a Tom Ferry event called Sales Edge. It’s designed to train you on how to become a better salesperson. It was a nice mix of agents—seasoned veterans, emerging agents, and newbies all under one roof.&nbsp;
