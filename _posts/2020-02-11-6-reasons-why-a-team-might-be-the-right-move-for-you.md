@@ -21,6 +21,8 @@ youtube_code: 'https://youtu.be/EXOBrrt009I'
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>There are six key reasons why forming a team might be the right move for you. Learn more here.</em></p>
+
 My mentor Gary Keller always said, “If you want to go up, you’ve got to let go.” That sounds backward, but it actually means that you might have to let go of your ego in order to advance in this industry. I was able to absorb a lot of good information from my mentors and coaches, and today I’d like to give something back. Here are six reasons why joining or forming a team might be the right move for you:
 
 **1\. Overhead.** Real estate is an expensive business; if you’re selling at a high level, you likely have several out-of-pocket expenses each month to keep your business running. When you work on a team, you generally have low or even no overhead. If you’re sick and tired of spending all that money to be able to make more money, it might be time to join a team.&nbsp;
