@@ -19,6 +19,8 @@ youtube_code: 'https://youtu.be/cvGC__WZVsc'
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>How will a team help you to get to the top? Find out today.</em></p>
+
 In March of 2018, one of my extended team members and business coaches said, “Robert, I have an idea and I want you to come along.”&nbsp;
 
 When I asked him to tell me more, he said, “I want to climb Mount Aconcagua in December, and I want to know if you’re in.”&nbsp;
