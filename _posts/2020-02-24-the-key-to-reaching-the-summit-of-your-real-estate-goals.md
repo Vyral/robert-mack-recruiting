@@ -23,7 +23,7 @@ youtube_code: 'https://youtu.be/cvGC__WZVsc'
 
 In March of 2018, one of my extended team members and business coaches said, “Robert, I have an idea and I want you to come along.”&nbsp;
 
-When I asked him to tell me more, he said, “I want to climb Mount Aconcagua in December, and I want to know if you’re interested.”&nbsp;
+When I asked him to tell me more, he said, “I want to climb Mount Aconcagua in December, and I want to know if you’re in.”&nbsp;
 
 I told him I’d never heard of Mount Aconcagua. Before that point, I’d always been an avid backpacker and hiker; I loved the outdoors. So after researching it, I learned that he was talking about a 14-day expedition to climb the tallest peak in South America\! I thought to myself that there was no way I could do that—I couldn’t be disconnected from work for two weeks\!
 
