@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/robert-mack-how-a-team-will-help-you-get-to-the-top-youtube.jpg
-youtube_code: 'https://youtu.be/cvGC__WZVsc'
+youtube_code: 'https://youtu.be/XHuoNSnQSR0'
 ---
 
 {% include youtube.html %}
