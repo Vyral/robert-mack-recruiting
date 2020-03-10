@@ -17,6 +17,8 @@ youtube_code: 'https://youtu.be/Yb716UIARso'
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>Here’s what you can do now in order to get another escrow on the books fast.</em></p>
+
 One of my mentors once told me that it’s several times easier and more cost-effective to go after referrals through people you know as opposed to those you don’t know. **Agents need to avoid the ‘shiny pennies’ of the real estate industry**—we can be distracted by websites that promise to send you leads if you spend lots of money on social media. You can certainly get leads that way, but those are low-quality leads because those people don’t have a relationship with you. Relationships are key to successfully closing a transaction.
 
 **So how do you get ahead of the problem?**
