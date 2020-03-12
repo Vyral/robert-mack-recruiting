@@ -23,15 +23,15 @@ One of my mentors once told me that it’s several times easier and more cost-ef
 
 **So how do you get ahead of the problem?**
 
-Start talking to the people you already know and like, people who will stand behind you and refer business to you if you do good work. I don’t expect referrals from people if I’m not doing a good job, and you shouldn’t either. That’s why we’re always pushing to enhance our clients’ experiences—so they’ll &nbsp;recommend us to their friends and family.
+Start talking to the people you already know and like, people who will stand behind you and refer business to you if you do good work. I don’t expect referrals from people if I’m not doing a good job, and you shouldn’t either. That’s why we’re always pushing to enhance our clients’ experiences—so they’ll recommend us to their friends and family.
 
-Think about who you can call that you’re comfortable with. I’ve heard of so many agents’ family members selling properties without telling the agent because they think they’re too busy or they don’t want to bother them. Don’t assume that people are just going to come to you for their buying and selling needs just because you have a relationship with them. You need to nurture your friends and family just like you do your past and current clients. The rule is the same for them: out of sight, out of mind.
+Think about who you're comfortable with that you can call. I’ve heard of so many agents’ family members selling properties without telling the agent because they think they’re too busy or they don’t want to bother them. Don’t assume that people are just going to come to you for their buying and selling needs just because you have a relationship with them. You need to nurture your friends and family just like you do your past and current clients. The rule is the same for them: out of sight, out of mind.
 
 {% include pullquote.html %}
 
 Some good examples of people to contact are **friends, family, past coworkers, and the members of any clubs or organizations you’re involved with** (both personal and professional). I’ve sold many properties simply because of my gym membership\!
 
-There’s no wrong way to generate business, but if you’ve had a slow quarter and you’re looking for another transaction quickly, comb through your database for people who know, like and trust you and start sending them updates.
+There’s no wrong way to generate business, but if you’ve had a slow quarter and you’re looking for another transaction quickly, comb through your database for people who know, like, and trust you and start sending them updates.
 
 There’s an opportunity right now to take advantage of the market, whether you’re buying, selling, refinancing, or looking to invest, so get out there and spread the word. **Control the narrative by letting your people know that the train’s in the station and it’s about to leave.**
 
